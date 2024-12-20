@@ -29,7 +29,7 @@ This is a Tic-Tac-Toe game developed in **Java** using GUI components from the *
 
 The game starts with an empty grid ready for players:
 
-![Initial Interface](imgs/Interface.png)
+![Initial Interface](TicTacToe/read.me/imgs/Interface.png)
 
 ### 🥳 Winning State
 
@@ -37,17 +37,17 @@ When a player wins, the winning sequence is highlighted:
 
 - **Player O Wins**:
 
-![Player O Wins](imgs/O%20Win.png)
+![Player O Wins](TicTacToe/read.me/imgs/OWin.png)
 
 - **Player X Wins**:
 
-![Player X Wins](imgs/X%20Win.png)
+![Player X Wins](TicTacToe/read.me/imgs/XWin.png)
 
 ### 🤝 Tie State
 
 If the grid is filled and no one wins, the game ends in a tie:
 
-![Tie State](imgs/Tie.png)
+![Tie State](TicTacToe/read.me/imgs/Tie.png)
 
 ---
 
