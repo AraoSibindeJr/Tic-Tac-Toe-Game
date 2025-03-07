@@ -96,6 +96,3 @@ Thanks to the **AWT** and **Swing** libraries for providing the tools to build t
 
 🌟 Feel free to connect or share your feedback!
 
-// TicTacToe/read.me/imgs/OWin.png
-// TicTacToe/read.me/imgs/Tie.png
-//TicTacToe/read.me/imgs/XWin.png
